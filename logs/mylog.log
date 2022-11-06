@@ -1,0 +1,115 @@
+[INFO ] 2022-11-05 10:40:40.131 [main] StepDef - setup method executed
+[INFO ] 2022-11-05 10:40:40.520 [main] StepDef - User launch ChromeBrowser
+[INFO ] 2022-11-05 10:40:44.421 [main] StepDef - url opened
+[INFO ] 2022-11-05 10:40:44.725 [main] StepDef - email and password entered
+[INFO ] 2022-11-05 10:40:49.665 [main] StepDef - User clicks on login
+[INFO ] 2022-11-05 10:40:49.678 [main] StepDef - Page title verified
+[INFO ] 2022-11-05 10:40:51.220 [main] StepDef - Page title verified
+[INFO ] 2022-11-05 10:40:51.233 [main] StepDef - Page title verified
+[INFO ] 2022-11-05 10:45:49.325 [main] StepDef - setup method executed
+[INFO ] 2022-11-05 10:45:49.608 [main] StepDef - User launch ChromeBrowser
+[INFO ] 2022-11-05 10:45:53.426 [main] StepDef - url opened
+[INFO ] 2022-11-05 10:45:53.706 [main] StepDef - email and password entered
+[INFO ] 2022-11-05 10:45:59.654 [main] StepDef - User clicks on login
+[INFO ] 2022-11-05 10:45:59.666 [main] StepDef - Page title verified
+[INFO ] 2022-11-05 10:46:02.475 [main] StepDef - Page title verified
+[INFO ] 2022-11-05 10:46:02.490 [main] StepDef - Page title verified
+[INFO ] 2022-11-05 11:51:45.135 [main] StepDef - setup method executed
+[INFO ] 2022-11-05 11:51:45.202 [main] StepDef - User launch ChromeBrowser
+[INFO ] 2022-11-05 11:51:49.899 [main] StepDef - url opened
+[INFO ] 2022-11-05 11:51:50.153 [main] StepDef - email and password entered
+[INFO ] 2022-11-05 11:51:55.445 [main] StepDef - User clicks on login
+[INFO ] 2022-11-05 11:51:55.458 [main] StepDef - Page title verified
+[INFO ] 2022-11-05 11:51:57.352 [main] StepDef - Page title verified
+[INFO ] 2022-11-05 11:51:57.363 [main] StepDef - Page title verified
+[INFO ] 2022-11-05 13:00:06.880 [main] StepDef - setup method executed
+[INFO ] 2022-11-05 13:00:06.997 [main] StepDef - User launch ChromeBrowser
+[INFO ] 2022-11-05 13:00:08.979 [main] StepDef - url opened
+[INFO ] 2022-11-05 13:00:09.333 [main] StepDef - email and password entered
+[INFO ] 2022-11-05 13:00:18.960 [main] StepDef - User clicks on login
+[INFO ] 2022-11-05 13:00:18.979 [main] StepDef - Page title verified
+[INFO ] 2022-11-05 13:00:22.354 [main] StepDef - Page title verified
+[INFO ] 2022-11-05 13:00:22.365 [main] StepDef - Page title verified
+[INFO ] 2022-11-05 13:00:25.237 [main] StepDef - setup method executed
+[INFO ] 2022-11-05 13:00:25.245 [main] StepDef - User launch ChromeBrowser
+[INFO ] 2022-11-05 13:00:33.841 [main] StepDef - url opened
+[INFO ] 2022-11-05 13:00:34.191 [main] StepDef - email and password entered
+[INFO ] 2022-11-05 13:00:42.164 [main] StepDef - User clicks on login
+[INFO ] 2022-11-05 13:00:42.177 [main] StepDef - Page title verified
+[INFO ] 2022-11-05 13:00:44.253 [main] StepDef - Page title verified
+[INFO ] 2022-11-05 13:00:44.270 [main] StepDef - Page title verified
+[INFO ] 2022-11-05 13:00:48.182 [main] StepDef - setup method executed
+[INFO ] 2022-11-05 13:00:48.184 [main] StepDef - User launch ChromeBrowser
+[INFO ] 2022-11-05 13:00:51.824 [main] StepDef - url opened
+[INFO ] 2022-11-05 13:00:52.257 [main] StepDef - email and password entered
+[INFO ] 2022-11-05 13:00:53.641 [main] StepDef - User clicks on login
+[INFO ] 2022-11-05 13:01:49.886 [main] StepDef - setup method executed
+[INFO ] 2022-11-05 13:01:49.935 [main] StepDef - User launch ChromeBrowser
+[INFO ] 2022-11-05 13:01:53.188 [main] StepDef - url opened
+[INFO ] 2022-11-05 13:01:53.498 [main] StepDef - email and password entered
+[INFO ] 2022-11-05 13:02:04.208 [main] StepDef - User clicks on login
+[INFO ] 2022-11-05 13:02:04.221 [main] StepDef - Page title verified
+[INFO ] 2022-11-05 13:02:06.934 [main] StepDef - Page title verified
+[INFO ] 2022-11-05 13:02:06.941 [main] StepDef - Page title verified
+[INFO ] 2022-11-05 13:16:41.835 [main] StepDef - setup method executed
+[INFO ] 2022-11-05 13:16:41.881 [main] StepDef - User launch ChromeBrowser
+[INFO ] 2022-11-05 13:16:47.728 [main] StepDef - url opened
+[INFO ] 2022-11-05 13:16:48.047 [main] StepDef - email and password entered
+[INFO ] 2022-11-05 13:16:55.147 [main] StepDef - User clicks on login
+[INFO ] 2022-11-05 13:17:09.563 [main] StepDef - setup method executed
+[INFO ] 2022-11-05 13:17:09.565 [main] StepDef - User launch ChromeBrowser
+[INFO ] 2022-11-05 13:17:14.369 [main] StepDef - url opened
+[INFO ] 2022-11-05 13:17:14.673 [main] StepDef - email and password entered
+[INFO ] 2022-11-05 13:17:20.091 [main] StepDef - User clicks on login
+[INFO ] 2022-11-05 13:17:26.928 [main] StepDef - setup method executed
+[INFO ] 2022-11-05 13:17:26.930 [main] StepDef - User launch ChromeBrowser
+[INFO ] 2022-11-05 13:17:32.427 [main] StepDef - url opened
+[INFO ] 2022-11-05 13:17:32.726 [main] StepDef - email and password entered
+[INFO ] 2022-11-05 13:17:40.995 [main] StepDef - User clicks on login
+[INFO ] 2022-11-06 12:26:52.984 [main] StepDef - setup method executed
+[INFO ] 2022-11-06 12:26:53.147 [main] StepDef - User launch ChromeBrowser
+[INFO ] 2022-11-06 12:26:58.771 [main] StepDef - url opened
+[INFO ] 2022-11-06 12:26:59.152 [main] StepDef - email and password entered
+[INFO ] 2022-11-06 12:27:09.213 [main] StepDef - User clicks on login
+[INFO ] 2022-11-06 12:27:09.396 [main] StepDef - Page title verified
+[INFO ] 2022-11-06 12:27:11.115 [main] StepDef - Page title verified
+[INFO ] 2022-11-06 12:27:11.276 [main] StepDef - Page title verified
+[INFO ] 2022-11-06 12:30:00.038 [main] StepDef - setup method executed
+[INFO ] 2022-11-06 12:30:00.090 [main] StepDef - User launch ChromeBrowser
+[INFO ] 2022-11-06 12:30:04.528 [main] StepDef - url opened
+[INFO ] 2022-11-06 12:30:04.907 [main] StepDef - email and password entered
+[INFO ] 2022-11-06 12:30:15.494 [main] StepDef - User clicks on login
+[INFO ] 2022-11-06 12:30:30.046 [main] StepDef - setup method executed
+[INFO ] 2022-11-06 12:30:30.049 [main] StepDef - User launch ChromeBrowser
+[INFO ] 2022-11-06 12:30:35.620 [main] StepDef - url opened
+[INFO ] 2022-11-06 12:30:35.973 [main] StepDef - email and password entered
+[INFO ] 2022-11-06 12:30:43.733 [main] StepDef - User clicks on login
+[INFO ] 2022-11-06 12:30:43.939 [main] StepDef - Page title verified
+[INFO ] 2022-11-06 12:30:45.641 [main] StepDef - Page title verified
+[INFO ] 2022-11-06 12:30:45.779 [main] StepDef - Page title verified
+[INFO ] 2022-11-06 12:31:42.743 [main] StepDef - setup method executed
+[INFO ] 2022-11-06 12:31:42.817 [main] StepDef - User launch ChromeBrowser
+[INFO ] 2022-11-06 12:31:46.839 [main] StepDef - url opened
+[INFO ] 2022-11-06 12:31:47.231 [main] StepDef - email and password entered
+[INFO ] 2022-11-06 12:31:55.730 [main] StepDef - User clicks on login
+[INFO ] 2022-11-06 12:32:07.829 [main] StepDef - setup method executed
+[INFO ] 2022-11-06 12:32:07.832 [main] StepDef - User launch ChromeBrowser
+[INFO ] 2022-11-06 12:32:11.619 [main] StepDef - url opened
+[INFO ] 2022-11-06 12:32:11.977 [main] StepDef - email and password entered
+[INFO ] 2022-11-06 12:32:17.921 [main] StepDef - User clicks on login
+[INFO ] 2022-11-06 12:32:18.125 [main] StepDef - Page title verified
+[INFO ] 2022-11-06 12:32:19.792 [main] StepDef - Page title verified
+[INFO ] 2022-11-06 12:32:19.903 [main] StepDef - Page title verified
+[INFO ] 2022-11-06 12:43:28.629 [main] StepDef - setup method executed
+[INFO ] 2022-11-06 12:43:28.697 [main] StepDef - User launch ChromeBrowser
+[INFO ] 2022-11-06 12:43:33.035 [main] StepDef - url opened
+[INFO ] 2022-11-06 12:43:33.485 [main] StepDef - email and password entered
+[INFO ] 2022-11-06 12:43:44.665 [main] StepDef - User clicks on login
+[INFO ] 2022-11-06 12:44:02.408 [main] StepDef - setup method executed
+[INFO ] 2022-11-06 12:44:02.410 [main] StepDef - User launch ChromeBrowser
+[INFO ] 2022-11-06 12:44:07.786 [main] StepDef - url opened
+[INFO ] 2022-11-06 12:44:08.175 [main] StepDef - email and password entered
+[INFO ] 2022-11-06 12:44:16.654 [main] StepDef - User clicks on login
+[INFO ] 2022-11-06 12:44:16.838 [main] StepDef - Page title verified
+[INFO ] 2022-11-06 12:44:18.519 [main] StepDef - Page title verified
+[INFO ] 2022-11-06 12:44:18.656 [main] StepDef - Page title verified
